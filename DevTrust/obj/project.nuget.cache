@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "91V7XcY6//f3w5+IAuth/c20qjOQ1r/w5WX3gnB6/v/atiLCneJ4jgfek1beZXEW4HCUgo7r0eYt8VDEf9Td9w==",
+  "success": true,
+  "projectFilePath": "D:\\-----------\\DevTrust\\DevTrust\\DevTrust.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taras\\.nuget\\packages\\autobogus\\2.13.1\\autobogus.2.13.1.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

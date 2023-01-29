@@ -1,0 +1,72 @@
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.exe
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.deps.json
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.runtimeconfig.json
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.dll
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.pdb
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\AutoBogus.dll
+D:\task for DevTrust\DevTrust\DevTrust\bin\Debug\net6.0-windows\Bogus.dll
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.AssemblyReference.cache
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\App.g.cs
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.cache
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.lref
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.g.resources
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.GeneratedMSBuildEditorConfig.editorconfig
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfoInputs.cache
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfo.cs
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CoreCompileInputs.cache
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CopyComplete
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.dll
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\refint\DevTrust.dll
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.pdb
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.genruntimeconfig.cache
+D:\task for DevTrust\DevTrust\DevTrust\obj\Debug\net6.0-windows\ref\DevTrust.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\ref\DevTrust.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.pdb
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.AssemblyReference.cache
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.cache
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.lref
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.exe
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.deps.json
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.runtimeconfig.json
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\ref\DevTrust.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.pdb
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\AutoBogus.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\bin\Debug\net6.0-windows\Bogus.dll
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.g.resources
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfoInputs.cache
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfo.cs
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CoreCompileInputs.cache
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CopyComplete
+C:\Users\anna.moskalenko\Desktop\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.genruntimeconfig.cache
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.exe
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.deps.json
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.runtimeconfig.json
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.dll
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\DevTrust.pdb
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\AutoBogus.dll
+D:\-----------\DevTrust\DevTrust\bin\Debug\net6.0-windows\Bogus.dll
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.AssemblyReference.cache
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\App.g.cs
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.cache
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust_MarkupCompile.lref
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.g.resources
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.GeneratedMSBuildEditorConfig.editorconfig
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfoInputs.cache
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.AssemblyInfo.cs
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CoreCompileInputs.cache
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.csproj.CopyComplete
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.dll
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\refint\DevTrust.dll
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.pdb
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\DevTrust.genruntimeconfig.cache
+D:\-----------\DevTrust\DevTrust\obj\Debug\net6.0-windows\ref\DevTrust.dll

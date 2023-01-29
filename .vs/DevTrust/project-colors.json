@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "95515776-85f1-4b62-9506-1243d6a1658d": {
+      "ProjectGuid": "95515776-85f1-4b62-9506-1243d6a1658d",
+      "DisplayName": "DevTrust",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
