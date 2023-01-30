@@ -13,10 +13,10 @@ namespace DevTrust
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(IFakeUser fakeUser)
         {
             InitializeComponent();
-            DataContext = new MainWindowViewModel(new FakeUser());          
+            DataContext = new MainWindowViewModel(fakeUser);
         }
     }
 }

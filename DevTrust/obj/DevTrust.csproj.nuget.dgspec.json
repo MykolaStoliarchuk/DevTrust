@@ -48,6 +48,14 @@
             "AutoBogus": {
               "target": "Package",
               "version": "[2.13.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
